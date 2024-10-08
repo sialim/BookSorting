@@ -1,0 +1,8 @@
+name: BookSorting
+version: '${project.version}'
+main: me.sialim.booksorting.BookSorting
+api-version: '1.20'
+commands:
+  booksort:
+    usage: /booksort
+    description: Toggles whether chests you open will be book-sorted or not
